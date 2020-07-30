@@ -1,0 +1,6 @@
+APP_NAME=everyday-item-manage
+S3_BUCKET=everyday-item-manage-work
+S3_PREFIX=deploy
+export APP_NAME
+export S3_BUCKET
+export S3_PREFIX
